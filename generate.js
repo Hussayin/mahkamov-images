@@ -28,7 +28,7 @@ const generateImagesHTML = (directory) => {
   return `
     <div class="watchs">
       <div class="${path.basename(directory)}">
-        <h1>${path.basename(directory)} Watches</h1>
+        <h1>${path.basename(directory)} Gilamlari</h1>
         <div class="images">
           ${imgTags}
         </div>
