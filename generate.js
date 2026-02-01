@@ -5,6 +5,7 @@ const path = require("path");
 const directories = [
   "./eron",
   "./eron1",
+  "./eron2",
   "./aksiya",
   // "./Frederique-Constant-done",
 ]; // Kataloglarni qo'shing
