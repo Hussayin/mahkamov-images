@@ -7,6 +7,7 @@ const directories = [
   "./eron1",
   "./eron2",
   "./aksiya",
+  "./kamchliklar",
   // "./Frederique-Constant-done",
 ]; // Kataloglarni qo'shing
 
